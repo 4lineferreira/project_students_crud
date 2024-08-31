@@ -8,7 +8,7 @@ const options = {
     info: {
       title: "API de Estudantes",
       version: "1.0.0",
-      description: "Documentação da API de Estudantes",
+      description: "Esta é a documentação da API de Estudantes. Para visualizar o código fonte, visite o repositório [project_students_crud](https://github.com/4lineferreira/project_students_crud).",
     },
     servers: [
       {
