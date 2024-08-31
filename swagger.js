@@ -12,7 +12,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:3000", // Substitua pela URL do seu servidor
+        url: "https://project-students-crud.onrender.com", // Substitua pela URL do seu servidor
       },
     ],
   },
